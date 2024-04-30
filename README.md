@@ -1,6 +1,5 @@
 # State Farm Distracted Driver Detection
 
-![Distracted Driver Detection](distracted_driver_detection.jpg)
 
 ## Overview
 
